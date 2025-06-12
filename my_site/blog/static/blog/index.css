@@ -58,6 +58,10 @@
   flex: 1;
 }
 
+#latest-posts img {
+  width: 30%;
+}
+
 #about {
   text-align: center;
   padding: 3rem;
